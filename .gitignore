@@ -10,12 +10,11 @@ env/
 # Ignore .env files that contain sensitive information (API keys, etc.)
 .env
 
-# Ignore Jupyter Notebooks checkpoints
+# Ignore Jupyter Notebooks s
 .ipynb_checkpoints/
 
 # Ignore VS Code settings and workspace files
 .vscode/
 
 # Ignore logs and other files
-*.log
-
+*.logs
